@@ -1,7 +1,9 @@
 const fetch = require('cross-fetch');
-const warlog = require('./warlog.json');
+//const warlog = require('./warlog.json');
 
-const url = "https://api.clashroyale.com/v1/clans/%2388QY8QQV/warlog"
+const cors_proxy = "https://cors-anywhere.herokuapp.com/"
+const url = cors_proxy+"https://api.clashroyale.com/v1/clans/%2388QY8QQV/warlog"
+const url2 = "https://api.clashroyale.com/v1/clans/%2388QY8QQV/warlog"
 
 let headers = {
     'Accept': 'application/json',
@@ -9,7 +11,7 @@ let headers = {
     //'Access-Control-Allow-Origin': '*',
     //'Access-Control-Request-Headers': '*',
 };
-/*
+
 fetch(url, {
     method: 'Get',
     //mode: 'cors',
@@ -17,8 +19,8 @@ fetch(url, {
 }).then(result => result.json())
   .then(result => console.log(result))
   .catch(err => console.log(err))
-*/
-console.log(warlog)
+
+//console.log(warlog)
 
 
 /*
