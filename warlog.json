@@ -1,0 +1,2200 @@
+{"warlog": [
+	{
+		"seasonId": 38,
+		"createdDate": "20191001T141012.000Z",
+		"participants": [
+			{
+				"tag": "#YV20V2Y8",
+				"name": "Havock",
+				"cardsEarned": 2805,
+				"battlesPlayed": 1,
+				"wins": 0,
+				"collectionDayBattlesPlayed": 3,
+				"numberOfBattles": 1
+			},
+			{
+				"tag": "#20JG98U0",
+				"name": "Occas",
+				"cardsEarned": 2337,
+				"battlesPlayed": 1,
+				"wins": 1,
+				"collectionDayBattlesPlayed": 3,
+				"numberOfBattles": 1
+			},
+			{
+				"tag": "#G8VGUJG",
+				"name": "Tristan",
+				"cardsEarned": 2337,
+				"battlesPlayed": 1,
+				"wins": 1,
+				"collectionDayBattlesPlayed": 3,
+				"numberOfBattles": 1
+			},
+			{
+				"tag": "#PLGUYG2Q",
+				"name": "GoravioSurfavio",
+				"cardsEarned": 2337,
+				"battlesPlayed": 1,
+				"wins": 0,
+				"collectionDayBattlesPlayed": 3,
+				"numberOfBattles": 1
+			},
+			{
+				"tag": "#P8Q2JYYR",
+				"name": "TheArrowIsHere",
+				"cardsEarned": 2337,
+				"battlesPlayed": 1,
+				"wins": 1,
+				"collectionDayBattlesPlayed": 3,
+				"numberOfBattles": 1
+			},
+			{
+				"tag": "#8UQ022J08",
+				"name": "Astaroth",
+				"cardsEarned": 2337,
+				"battlesPlayed": 1,
+				"wins": 1,
+				"collectionDayBattlesPlayed": 3,
+				"numberOfBattles": 1
+			},
+			{
+				"tag": "#UVLG0JG9",
+				"name": "findingnino1238",
+				"cardsEarned": 1869,
+				"battlesPlayed": 1,
+				"wins": 1,
+				"collectionDayBattlesPlayed": 3,
+				"numberOfBattles": 1
+			},
+			{
+				"tag": "#88VUGGC2",
+				"name": "mctwitch5",
+				"cardsEarned": 1869,
+				"battlesPlayed": 1,
+				"wins": 1,
+				"collectionDayBattlesPlayed": 3,
+				"numberOfBattles": 1
+			},
+			{
+				"tag": "#2Q9U28P8",
+				"name": "supermans son",
+				"cardsEarned": 1869,
+				"battlesPlayed": 1,
+				"wins": 1,
+				"collectionDayBattlesPlayed": 3,
+				"numberOfBattles": 1
+			},
+			{
+				"tag": "#9VCJCLRY",
+				"name": "OgieOgilthorpe",
+				"cardsEarned": 1869,
+				"battlesPlayed": 1,
+				"wins": 1,
+				"collectionDayBattlesPlayed": 3,
+				"numberOfBattles": 1
+			},
+			{
+				"tag": "#9Y2C0LYRY",
+				"name": "yokei17",
+				"cardsEarned": 1760,
+				"battlesPlayed": 0,
+				"wins": 0,
+				"collectionDayBattlesPlayed": 3,
+				"numberOfBattles": 1
+			},
+			{
+				"tag": "#980UCPLRQ",
+				"name": "jokerkin",
+				"cardsEarned": 1402,
+				"battlesPlayed": 1,
+				"wins": 0,
+				"collectionDayBattlesPlayed": 2,
+				"numberOfBattles": 1
+			},
+			{
+				"tag": "#9ULGYU2L",
+				"name": "nparky",
+				"cardsEarned": 1401,
+				"battlesPlayed": 1,
+				"wins": 0,
+				"collectionDayBattlesPlayed": 3,
+				"numberOfBattles": 1
+			},
+			{
+				"tag": "#20QPUQQCC",
+				"name": "Archangel",
+				"cardsEarned": 1401,
+				"battlesPlayed": 1,
+				"wins": 1,
+				"collectionDayBattlesPlayed": 3,
+				"numberOfBattles": 1
+			},
+			{
+				"tag": "#P8QYGQUPG",
+				"name": "tiffmcnino1213",
+				"cardsEarned": 1236,
+				"battlesPlayed": 0,
+				"wins": 0,
+				"collectionDayBattlesPlayed": 3,
+				"numberOfBattles": 1
+			},
+			{
+				"tag": "#PRQLVQJV",
+				"name": "DemonicSaviour",
+				"cardsEarned": 935,
+				"battlesPlayed": 1,
+				"wins": 0,
+				"collectionDayBattlesPlayed": 1,
+				"numberOfBattles": 1
+			}
+		],
+		"standings": [
+			{
+				"clan": {
+					"tag": "#PPVYG0P",
+					"name": "\u5ca1\u5c71\u3067\u30fc\u308c\u30fc\u4f1a",
+					"badgeId": 16000044,
+					"clanScore": 5139,
+					"participants": 14,
+					"battlesPlayed": 16,
+					"wins": 11,
+					"crowns": 13
+				},
+				"trophyChange": 111
+			},
+			{
+				"clan": {
+					"tag": "#2LURLY",
+					"name": "#1 western USA",
+					"badgeId": 16000036,
+					"clanScore": 3192,
+					"participants": 16,
+					"battlesPlayed": 15,
+					"wins": 9,
+					"crowns": 17
+				},
+				"trophyChange": 21
+			},
+			{
+				"clan": {
+					"tag": "#88QY8QQV",
+					"name": "Anarchy",
+					"badgeId": 16000028,
+					"clanScore": 3489,
+					"participants": 16,
+					"battlesPlayed": 14,
+					"wins": 9,
+					"crowns": 17
+				},
+				"trophyChange": 21
+			},
+			{
+				"clan": {
+					"tag": "#8PGGJP2",
+					"name": "The Dawg Pound",
+					"badgeId": 16000007,
+					"clanScore": 3050,
+					"participants": 16,
+					"battlesPlayed": 14,
+					"wins": 6,
+					"crowns": 13
+				},
+				"trophyChange": -44
+			},
+			{
+				"clan": {
+					"tag": "#LU20L0",
+					"name": "JarcorsMX",
+					"badgeId": 16000029,
+					"clanScore": 3181,
+					"participants": 14,
+					"battlesPlayed": 15,
+					"wins": 4,
+					"crowns": 9
+				},
+				"trophyChange": -96
+			}
+		]
+	},
+	{
+		"seasonId": 38,
+		"createdDate": "20190929T135416.000Z",
+		"participants": [
+			{
+				"tag": "#PLGUYG2Q",
+				"name": "GoravioSurfavio",
+				"cardsEarned": 2805,
+				"battlesPlayed": 1,
+				"wins": 1,
+				"collectionDayBattlesPlayed": 3,
+				"numberOfBattles": 1
+			},
+			{
+				"tag": "#88VUGGC2",
+				"name": "mctwitch5",
+				"cardsEarned": 2805,
+				"battlesPlayed": 1,
+				"wins": 1,
+				"collectionDayBattlesPlayed": 3,
+				"numberOfBattles": 1
+			},
+			{
+				"tag": "#YCPVQVGG",
+				"name": "Gogjog",
+				"cardsEarned": 2337,
+				"battlesPlayed": 0,
+				"wins": 0,
+				"collectionDayBattlesPlayed": 3,
+				"numberOfBattles": 1
+			},
+			{
+				"tag": "#9ULGYU2L",
+				"name": "nparky",
+				"cardsEarned": 2337,
+				"battlesPlayed": 1,
+				"wins": 0,
+				"collectionDayBattlesPlayed": 3,
+				"numberOfBattles": 1
+			},
+			{
+				"tag": "#LQLYV0QU",
+				"name": "Berg",
+				"cardsEarned": 2337,
+				"battlesPlayed": 1,
+				"wins": 0,
+				"collectionDayBattlesPlayed": 3,
+				"numberOfBattles": 1
+			},
+			{
+				"tag": "#20QPUQQCC",
+				"name": "Archangel",
+				"cardsEarned": 2337,
+				"battlesPlayed": 2,
+				"wins": 0,
+				"collectionDayBattlesPlayed": 3,
+				"numberOfBattles": 2
+			},
+			{
+				"tag": "#8UQ022J08",
+				"name": "Astaroth",
+				"cardsEarned": 1869,
+				"battlesPlayed": 1,
+				"wins": 0,
+				"collectionDayBattlesPlayed": 3,
+				"numberOfBattles": 1
+			},
+			{
+				"tag": "#980UCPLRQ",
+				"name": "jokerkin",
+				"cardsEarned": 1869,
+				"battlesPlayed": 0,
+				"wins": 0,
+				"collectionDayBattlesPlayed": 3,
+				"numberOfBattles": 1
+			},
+			{
+				"tag": "#YV20V2Y8",
+				"name": "Havock",
+				"cardsEarned": 1869,
+				"battlesPlayed": 1,
+				"wins": 1,
+				"collectionDayBattlesPlayed": 3,
+				"numberOfBattles": 1
+			},
+			{
+				"tag": "#PRQLVQJV",
+				"name": "DemonicSaviour",
+				"cardsEarned": 1869,
+				"battlesPlayed": 1,
+				"wins": 1,
+				"collectionDayBattlesPlayed": 3,
+				"numberOfBattles": 1
+			},
+			{
+				"tag": "#9VCJCLRY",
+				"name": "OgieOgilthorpe",
+				"cardsEarned": 1869,
+				"battlesPlayed": 1,
+				"wins": 0,
+				"collectionDayBattlesPlayed": 3,
+				"numberOfBattles": 1
+			},
+			{
+				"tag": "#8Y2L2PV8",
+				"name": "superdudeness",
+				"cardsEarned": 1869,
+				"battlesPlayed": 1,
+				"wins": 1,
+				"collectionDayBattlesPlayed": 3,
+				"numberOfBattles": 1
+			},
+			{
+				"tag": "#20JG98U0",
+				"name": "Occas",
+				"cardsEarned": 1869,
+				"battlesPlayed": 1,
+				"wins": 0,
+				"collectionDayBattlesPlayed": 3,
+				"numberOfBattles": 1
+			},
+			{
+				"tag": "#UVLG0JG9",
+				"name": "findingnino1238",
+				"cardsEarned": 1869,
+				"battlesPlayed": 1,
+				"wins": 1,
+				"collectionDayBattlesPlayed": 3,
+				"numberOfBattles": 1
+			},
+			{
+				"tag": "#P8QYGQUPG",
+				"name": "tiffmcnino1213",
+				"cardsEarned": 1237,
+				"battlesPlayed": 1,
+				"wins": 0,
+				"collectionDayBattlesPlayed": 2,
+				"numberOfBattles": 1
+			}
+		],
+		"standings": [
+			{
+				"clan": {
+					"tag": "#L8QC9P",
+					"name": "ChineseTakeaway",
+					"badgeId": 16000125,
+					"clanScore": 7702,
+					"participants": 14,
+					"battlesPlayed": 15,
+					"wins": 11,
+					"crowns": 19
+				},
+				"trophyChange": 111
+			},
+			{
+				"clan": {
+					"tag": "#88QY8QQV",
+					"name": "Anarchy",
+					"badgeId": 16000028,
+					"clanScore": 3468,
+					"participants": 15,
+					"battlesPlayed": 14,
+					"wins": 6,
+					"crowns": 13
+				},
+				"trophyChange": 56
+			},
+			{
+				"clan": {
+					"tag": "#9QYGYL",
+					"name": "(Persian-Gulf)",
+					"badgeId": 16000081,
+					"clanScore": 5219,
+					"participants": 14,
+					"battlesPlayed": 16,
+					"wins": 5,
+					"crowns": 10
+				},
+				"trophyChange": -20
+			},
+			{
+				"clan": {
+					"tag": "#9P9GPPC0",
+					"name": "Wulfpack",
+					"badgeId": 16000096,
+					"clanScore": 2976,
+					"participants": 16,
+					"battlesPlayed": 12,
+					"wins": 5,
+					"crowns": 9
+				},
+				"trophyChange": -45
+			},
+			{
+				"clan": {
+					"tag": "#922RVYUR",
+					"name": "WARSZAWA",
+					"badgeId": 16000046,
+					"clanScore": 2913,
+					"participants": 14,
+					"battlesPlayed": 13,
+					"wins": 3,
+					"crowns": 7
+				},
+				"trophyChange": -97
+			}
+		]
+	},
+	{
+		"seasonId": 38,
+		"createdDate": "20190927T120027.000Z",
+		"participants": [
+			{
+				"tag": "#980UCPLRQ",
+				"name": "jokerkin",
+				"cardsEarned": 2805,
+				"battlesPlayed": 1,
+				"wins": 1,
+				"collectionDayBattlesPlayed": 3,
+				"numberOfBattles": 1
+			},
+			{
+				"tag": "#8PPGJ2QYQ",
+				"name": "Tyrone Biggums",
+				"cardsEarned": 2337,
+				"battlesPlayed": 0,
+				"wins": 0,
+				"collectionDayBattlesPlayed": 3,
+				"numberOfBattles": 1
+			},
+			{
+				"tag": "#88VUGGC2",
+				"name": "mctwitch5",
+				"cardsEarned": 2337,
+				"battlesPlayed": 1,
+				"wins": 1,
+				"collectionDayBattlesPlayed": 3,
+				"numberOfBattles": 1
+			},
+			{
+				"tag": "#20JG98U0",
+				"name": "Occas",
+				"cardsEarned": 2337,
+				"battlesPlayed": 1,
+				"wins": 0,
+				"collectionDayBattlesPlayed": 3,
+				"numberOfBattles": 1
+			},
+			{
+				"tag": "#G8VGUJG",
+				"name": "Tristan",
+				"cardsEarned": 2337,
+				"battlesPlayed": 1,
+				"wins": 0,
+				"collectionDayBattlesPlayed": 3,
+				"numberOfBattles": 1
+			},
+			{
+				"tag": "#20QPUQQCC",
+				"name": "Archangel",
+				"cardsEarned": 2337,
+				"battlesPlayed": 1,
+				"wins": 0,
+				"collectionDayBattlesPlayed": 3,
+				"numberOfBattles": 1
+			},
+			{
+				"tag": "#9ULGYU2L",
+				"name": "nparky",
+				"cardsEarned": 1870,
+				"battlesPlayed": 2,
+				"wins": 1,
+				"collectionDayBattlesPlayed": 2,
+				"numberOfBattles": 2
+			},
+			{
+				"tag": "#UVLG0JG9",
+				"name": "findingnino1238",
+				"cardsEarned": 1870,
+				"battlesPlayed": 1,
+				"wins": 0,
+				"collectionDayBattlesPlayed": 2,
+				"numberOfBattles": 1
+			},
+			{
+				"tag": "#LQLYV0QU",
+				"name": "Berg",
+				"cardsEarned": 1869,
+				"battlesPlayed": 1,
+				"wins": 0,
+				"collectionDayBattlesPlayed": 3,
+				"numberOfBattles": 1
+			},
+			{
+				"tag": "#PRQLVQJV",
+				"name": "DemonicSaviour",
+				"cardsEarned": 1869,
+				"battlesPlayed": 1,
+				"wins": 1,
+				"collectionDayBattlesPlayed": 3,
+				"numberOfBattles": 1
+			},
+			{
+				"tag": "#9VCJCLRY",
+				"name": "OgieOgilthorpe",
+				"cardsEarned": 1869,
+				"battlesPlayed": 0,
+				"wins": 0,
+				"collectionDayBattlesPlayed": 3,
+				"numberOfBattles": 1
+			},
+			{
+				"tag": "#P8Q2JYYR",
+				"name": "TheArrowIsHere",
+				"cardsEarned": 1402,
+				"battlesPlayed": 1,
+				"wins": 1,
+				"collectionDayBattlesPlayed": 2,
+				"numberOfBattles": 1
+			},
+			{
+				"tag": "#YCPVQVGG",
+				"name": "Gogjog",
+				"cardsEarned": 1401,
+				"battlesPlayed": 0,
+				"wins": 0,
+				"collectionDayBattlesPlayed": 3,
+				"numberOfBattles": 1
+			},
+			{
+				"tag": "#9Y2C0LYRY",
+				"name": "yokei17",
+				"cardsEarned": 1320,
+				"battlesPlayed": 1,
+				"wins": 0,
+				"collectionDayBattlesPlayed": 2,
+				"numberOfBattles": 2
+			},
+			{
+				"tag": "#QLURYPQY",
+				"name": "any 1 4 fun",
+				"cardsEarned": 935,
+				"battlesPlayed": 0,
+				"wins": 0,
+				"collectionDayBattlesPlayed": 1,
+				"numberOfBattles": 1
+			}
+		],
+		"standings": [
+			{
+				"clan": {
+					"tag": "#GCJYL0",
+					"name": "Battle Royale",
+					"badgeId": 16000038,
+					"clanScore": 4020,
+					"participants": 17,
+					"battlesPlayed": 17,
+					"wins": 9,
+					"crowns": 18
+				},
+				"trophyChange": 109
+			},
+			{
+				"clan": {
+					"tag": "#2JLP9J8",
+					"name": "-ITTIFAK-",
+					"badgeId": 16000030,
+					"clanScore": 9008,
+					"participants": 16,
+					"battlesPlayed": 17,
+					"wins": 8,
+					"crowns": 11
+				},
+				"trophyChange": 58
+			},
+			{
+				"clan": {
+					"tag": "#9VLGLPQ",
+					"name": "D\u00e9guenill\u00e9-BZH",
+					"badgeId": 16000077,
+					"clanScore": 2981,
+					"participants": 17,
+					"battlesPlayed": 17,
+					"wins": 5,
+					"crowns": 13
+				},
+				"trophyChange": -20
+			},
+			{
+				"clan": {
+					"tag": "#88QY8QQV",
+					"name": "Anarchy",
+					"badgeId": 16000028,
+					"clanScore": 3412,
+					"participants": 15,
+					"battlesPlayed": 12,
+					"wins": 5,
+					"crowns": 8
+				},
+				"trophyChange": -45
+			},
+			{
+				"clan": {
+					"tag": "#2PJ09J0L",
+					"name": "Clash LC",
+					"badgeId": 16000145,
+					"clanScore": 2941,
+					"participants": 17,
+					"battlesPlayed": 14,
+					"wins": 4,
+					"crowns": 9
+				},
+				"trophyChange": -96
+			}
+		]
+	},
+	{
+		"seasonId": 38,
+		"createdDate": "20190925T112314.000Z",
+		"participants": [
+			{
+				"tag": "#8Y2L2PV8",
+				"name": "superdudeness",
+				"cardsEarned": 2337,
+				"battlesPlayed": 1,
+				"wins": 0,
+				"collectionDayBattlesPlayed": 3,
+				"numberOfBattles": 1
+			},
+			{
+				"tag": "#88VUGGC2",
+				"name": "mctwitch5",
+				"cardsEarned": 2337,
+				"battlesPlayed": 1,
+				"wins": 1,
+				"collectionDayBattlesPlayed": 3,
+				"numberOfBattles": 1
+			},
+			{
+				"tag": "#LQLYV0QU",
+				"name": "Berg",
+				"cardsEarned": 2337,
+				"battlesPlayed": 1,
+				"wins": 1,
+				"collectionDayBattlesPlayed": 3,
+				"numberOfBattles": 1
+			},
+			{
+				"tag": "#G8VGUJG",
+				"name": "Tristan",
+				"cardsEarned": 2337,
+				"battlesPlayed": 1,
+				"wins": 1,
+				"collectionDayBattlesPlayed": 3,
+				"numberOfBattles": 1
+			},
+			{
+				"tag": "#PRQLVQJV",
+				"name": "DemonicSaviour",
+				"cardsEarned": 2337,
+				"battlesPlayed": 1,
+				"wins": 0,
+				"collectionDayBattlesPlayed": 3,
+				"numberOfBattles": 1
+			},
+			{
+				"tag": "#980UCPLRQ",
+				"name": "jokerkin",
+				"cardsEarned": 1870,
+				"battlesPlayed": 0,
+				"wins": 0,
+				"collectionDayBattlesPlayed": 2,
+				"numberOfBattles": 1
+			},
+			{
+				"tag": "#9ULGYU2L",
+				"name": "nparky",
+				"cardsEarned": 1869,
+				"battlesPlayed": 1,
+				"wins": 1,
+				"collectionDayBattlesPlayed": 3,
+				"numberOfBattles": 1
+			},
+			{
+				"tag": "#2Q9U28P8",
+				"name": "supermans son",
+				"cardsEarned": 1869,
+				"battlesPlayed": 1,
+				"wins": 0,
+				"collectionDayBattlesPlayed": 3,
+				"numberOfBattles": 1
+			},
+			{
+				"tag": "#20JG98U0",
+				"name": "Occas",
+				"cardsEarned": 1869,
+				"battlesPlayed": 2,
+				"wins": 1,
+				"collectionDayBattlesPlayed": 3,
+				"numberOfBattles": 2
+			},
+			{
+				"tag": "#20QPUQQCC",
+				"name": "Archangel",
+				"cardsEarned": 1869,
+				"battlesPlayed": 1,
+				"wins": 1,
+				"collectionDayBattlesPlayed": 3,
+				"numberOfBattles": 1
+			},
+			{
+				"tag": "#P8Q2JYYR",
+				"name": "TheArrowIsHere",
+				"cardsEarned": 1869,
+				"battlesPlayed": 1,
+				"wins": 0,
+				"collectionDayBattlesPlayed": 3,
+				"numberOfBattles": 1
+			},
+			{
+				"tag": "#8UQ022J08",
+				"name": "Astaroth",
+				"cardsEarned": 1869,
+				"battlesPlayed": 0,
+				"wins": 0,
+				"collectionDayBattlesPlayed": 3,
+				"numberOfBattles": 1
+			},
+			{
+				"tag": "#PC0C0L08",
+				"name": "Ski-d\u00f8uche",
+				"cardsEarned": 1760,
+				"battlesPlayed": 1,
+				"wins": 1,
+				"collectionDayBattlesPlayed": 3,
+				"numberOfBattles": 1
+			},
+			{
+				"tag": "#RP02RG0L",
+				"name": "JohnTheEmo",
+				"cardsEarned": 934,
+				"battlesPlayed": 1,
+				"wins": 0,
+				"collectionDayBattlesPlayed": 2,
+				"numberOfBattles": 1
+			},
+			{
+				"tag": "#QLURYPQY",
+				"name": "any 1 4 fun",
+				"cardsEarned": 467,
+				"battlesPlayed": 0,
+				"wins": 0,
+				"collectionDayBattlesPlayed": 1,
+				"numberOfBattles": 1
+			},
+			{
+				"tag": "#UVLG0JG9",
+				"name": "findingnino1238",
+				"cardsEarned": 467,
+				"battlesPlayed": 1,
+				"wins": 1,
+				"collectionDayBattlesPlayed": 1,
+				"numberOfBattles": 1
+			},
+			{
+				"tag": "#YV20V2Y8",
+				"name": "Havock",
+				"cardsEarned": 467,
+				"battlesPlayed": 1,
+				"wins": 1,
+				"collectionDayBattlesPlayed": 1,
+				"numberOfBattles": 1
+			},
+			{
+				"tag": "#9VCJCLRY",
+				"name": "OgieOgilthorpe",
+				"cardsEarned": 467,
+				"battlesPlayed": 1,
+				"wins": 1,
+				"collectionDayBattlesPlayed": 1,
+				"numberOfBattles": 1
+			}
+		],
+		"standings": [
+			{
+				"clan": {
+					"tag": "#88QY8QQV",
+					"name": "Anarchy",
+					"badgeId": 16000028,
+					"clanScore": 3457,
+					"participants": 18,
+					"battlesPlayed": 16,
+					"wins": 10,
+					"crowns": 19
+				},
+				"trophyChange": 110
+			},
+			{
+				"clan": {
+					"tag": "#V0PV0YP",
+					"name": "Verarri",
+					"badgeId": 16000177,
+					"clanScore": 3800,
+					"participants": 18,
+					"battlesPlayed": 19,
+					"wins": 10,
+					"crowns": 17
+				},
+				"trophyChange": 60
+			},
+			{
+				"clan": {
+					"tag": "#2JR22VRJ",
+					"name": "Clan Chowder",
+					"badgeId": 16000164,
+					"clanScore": 3889,
+					"participants": 19,
+					"battlesPlayed": 19,
+					"wins": 4,
+					"crowns": 6
+				},
+				"trophyChange": -21
+			},
+			{
+				"clan": {
+					"tag": "#28C8JG",
+					"name": "#the_lethals",
+					"badgeId": 16000160,
+					"clanScore": 3062,
+					"participants": 19,
+					"battlesPlayed": 16,
+					"wins": 3,
+					"crowns": 9
+				},
+				"trophyChange": -47
+			},
+			{
+				"clan": {
+					"tag": "#220JPV2",
+					"name": "onDestroy()",
+					"badgeId": 16000047,
+					"clanScore": 2957,
+					"participants": 19,
+					"battlesPlayed": 15,
+					"wins": 3,
+					"crowns": 6
+				},
+				"trophyChange": -97
+			}
+		]
+	},
+	{
+		"seasonId": 38,
+		"createdDate": "20190923T100115.000Z",
+		"participants": [
+			{
+				"tag": "#UVLG0JG9",
+				"name": "findingnino1238",
+				"cardsEarned": 2805,
+				"battlesPlayed": 1,
+				"wins": 0,
+				"collectionDayBattlesPlayed": 3,
+				"numberOfBattles": 1
+			},
+			{
+				"tag": "#LQLYV0QU",
+				"name": "Berg",
+				"cardsEarned": 2805,
+				"battlesPlayed": 2,
+				"wins": 2,
+				"collectionDayBattlesPlayed": 3,
+				"numberOfBattles": 2
+			},
+			{
+				"tag": "#9ULGYU2L",
+				"name": "nparky",
+				"cardsEarned": 2337,
+				"battlesPlayed": 1,
+				"wins": 1,
+				"collectionDayBattlesPlayed": 3,
+				"numberOfBattles": 1
+			},
+			{
+				"tag": "#20JG98U0",
+				"name": "Occas",
+				"cardsEarned": 2337,
+				"battlesPlayed": 1,
+				"wins": 0,
+				"collectionDayBattlesPlayed": 3,
+				"numberOfBattles": 1
+			},
+			{
+				"tag": "#G8VGUJG",
+				"name": "Tristan",
+				"cardsEarned": 2337,
+				"battlesPlayed": 1,
+				"wins": 1,
+				"collectionDayBattlesPlayed": 3,
+				"numberOfBattles": 1
+			},
+			{
+				"tag": "#9VCJCLRY",
+				"name": "OgieOgilthorpe",
+				"cardsEarned": 2337,
+				"battlesPlayed": 1,
+				"wins": 0,
+				"collectionDayBattlesPlayed": 3,
+				"numberOfBattles": 1
+			},
+			{
+				"tag": "#88VUGGC2",
+				"name": "mctwitch5",
+				"cardsEarned": 1869,
+				"battlesPlayed": 1,
+				"wins": 1,
+				"collectionDayBattlesPlayed": 3,
+				"numberOfBattles": 1
+			},
+			{
+				"tag": "#2Q9U28P8",
+				"name": "supermans son",
+				"cardsEarned": 1869,
+				"battlesPlayed": 1,
+				"wins": 0,
+				"collectionDayBattlesPlayed": 3,
+				"numberOfBattles": 1
+			},
+			{
+				"tag": "#2QC8VG2VV",
+				"name": "spicycamo",
+				"cardsEarned": 1869,
+				"battlesPlayed": 1,
+				"wins": 1,
+				"collectionDayBattlesPlayed": 3,
+				"numberOfBattles": 1
+			},
+			{
+				"tag": "#9Q8VU0CP",
+				"name": "->uhz<-",
+				"cardsEarned": 1869,
+				"battlesPlayed": 1,
+				"wins": 1,
+				"collectionDayBattlesPlayed": 3,
+				"numberOfBattles": 1
+			},
+			{
+				"tag": "#PRQLVQJV",
+				"name": "DemonicSaviour",
+				"cardsEarned": 1402,
+				"battlesPlayed": 1,
+				"wins": 1,
+				"collectionDayBattlesPlayed": 2,
+				"numberOfBattles": 1
+			},
+			{
+				"tag": "#8Y2L2PV8",
+				"name": "superdudeness",
+				"cardsEarned": 1401,
+				"battlesPlayed": 1,
+				"wins": 1,
+				"collectionDayBattlesPlayed": 3,
+				"numberOfBattles": 1
+			},
+			{
+				"tag": "#YV20V2Y8",
+				"name": "Havock",
+				"cardsEarned": 1401,
+				"battlesPlayed": 1,
+				"wins": 0,
+				"collectionDayBattlesPlayed": 3,
+				"numberOfBattles": 1
+			},
+			{
+				"tag": "#YCPVQVGG",
+				"name": "Gogjog",
+				"cardsEarned": 1401,
+				"battlesPlayed": 1,
+				"wins": 1,
+				"collectionDayBattlesPlayed": 3,
+				"numberOfBattles": 1
+			},
+			{
+				"tag": "#P9Q20YLY",
+				"name": "Lexeus",
+				"cardsEarned": 467,
+				"battlesPlayed": 1,
+				"wins": 1,
+				"collectionDayBattlesPlayed": 1,
+				"numberOfBattles": 1
+			},
+			{
+				"tag": "#20QPUQQCC",
+				"name": "Archangel",
+				"cardsEarned": 467,
+				"battlesPlayed": 1,
+				"wins": 0,
+				"collectionDayBattlesPlayed": 1,
+				"numberOfBattles": 1
+			},
+			{
+				"tag": "#980UCPLRQ",
+				"name": "jokerkin",
+				"cardsEarned": 467,
+				"battlesPlayed": 1,
+				"wins": 1,
+				"collectionDayBattlesPlayed": 1,
+				"numberOfBattles": 1
+			}
+		],
+		"standings": [
+			{
+				"clan": {
+					"tag": "#88QY8QQV",
+					"name": "Anarchy",
+					"badgeId": 16000028,
+					"clanScore": 3347,
+					"participants": 17,
+					"battlesPlayed": 18,
+					"wins": 12,
+					"crowns": 18
+				},
+				"trophyChange": 112
+			},
+			{
+				"clan": {
+					"tag": "#LC9GU",
+					"name": "\u30b3\u30f3\u30d5\u30a3\u30a2\u30f3\u30b9",
+					"badgeId": 16000158,
+					"clanScore": 12902,
+					"participants": 17,
+					"battlesPlayed": 18,
+					"wins": 12,
+					"crowns": 15
+				},
+				"trophyChange": 62
+			},
+			{
+				"clan": {
+					"tag": "#YL9JR8",
+					"name": "Clashmachine",
+					"badgeId": 16000024,
+					"clanScore": 3068,
+					"participants": 16,
+					"battlesPlayed": 18,
+					"wins": 11,
+					"crowns": 24
+				},
+				"trophyChange": -14
+			},
+			{
+				"clan": {
+					"tag": "#29G8P8Y",
+					"name": "Twilight!",
+					"badgeId": 16000015,
+					"clanScore": 6795,
+					"participants": 18,
+					"battlesPlayed": 16,
+					"wins": 9,
+					"crowns": 19
+				},
+				"trophyChange": -41
+			},
+			{
+				"clan": {
+					"tag": "#8QC02P09",
+					"name": "valencia war",
+					"badgeId": 16000140,
+					"clanScore": 3226,
+					"participants": 17,
+					"battlesPlayed": 18,
+					"wins": 6,
+					"crowns": 15
+				},
+				"trophyChange": -94
+			}
+		]
+	},
+	{
+		"seasonId": 38,
+		"createdDate": "20190921T095444.000Z",
+		"participants": [
+			{
+				"tag": "#PC0C0L08",
+				"name": "Ski-d\u00f8uche",
+				"cardsEarned": 2640,
+				"battlesPlayed": 1,
+				"wins": 0,
+				"collectionDayBattlesPlayed": 3,
+				"numberOfBattles": 1
+			},
+			{
+				"tag": "#RP02RG0L",
+				"name": "JohnTheEmo",
+				"cardsEarned": 2640,
+				"battlesPlayed": 1,
+				"wins": 0,
+				"collectionDayBattlesPlayed": 3,
+				"numberOfBattles": 1
+			},
+			{
+				"tag": "#QLURYPQY",
+				"name": "any 1 4 fun",
+				"cardsEarned": 2337,
+				"battlesPlayed": 1,
+				"wins": 1,
+				"collectionDayBattlesPlayed": 3,
+				"numberOfBattles": 1
+			},
+			{
+				"tag": "#UVLG0JG9",
+				"name": "findingnino1238",
+				"cardsEarned": 2337,
+				"battlesPlayed": 1,
+				"wins": 0,
+				"collectionDayBattlesPlayed": 3,
+				"numberOfBattles": 1
+			},
+			{
+				"tag": "#88VUGGC2",
+				"name": "mctwitch5",
+				"cardsEarned": 2337,
+				"battlesPlayed": 1,
+				"wins": 0,
+				"collectionDayBattlesPlayed": 3,
+				"numberOfBattles": 1
+			},
+			{
+				"tag": "#LQLYV0QU",
+				"name": "Berg",
+				"cardsEarned": 2337,
+				"battlesPlayed": 1,
+				"wins": 0,
+				"collectionDayBattlesPlayed": 3,
+				"numberOfBattles": 1
+			},
+			{
+				"tag": "#G8VGUJG",
+				"name": "Tristan",
+				"cardsEarned": 2337,
+				"battlesPlayed": 1,
+				"wins": 0,
+				"collectionDayBattlesPlayed": 3,
+				"numberOfBattles": 1
+			},
+			{
+				"tag": "#PRQLVQJV",
+				"name": "DemonicSaviour",
+				"cardsEarned": 2337,
+				"battlesPlayed": 1,
+				"wins": 1,
+				"collectionDayBattlesPlayed": 3,
+				"numberOfBattles": 1
+			},
+			{
+				"tag": "#20QPUQQCC",
+				"name": "Archangel",
+				"cardsEarned": 2337,
+				"battlesPlayed": 1,
+				"wins": 0,
+				"collectionDayBattlesPlayed": 3,
+				"numberOfBattles": 1
+			},
+			{
+				"tag": "#8Y2L2PV8",
+				"name": "superdudeness",
+				"cardsEarned": 1869,
+				"battlesPlayed": 1,
+				"wins": 0,
+				"collectionDayBattlesPlayed": 3,
+				"numberOfBattles": 1
+			},
+			{
+				"tag": "#20JG98U0",
+				"name": "Occas",
+				"cardsEarned": 1869,
+				"battlesPlayed": 0,
+				"wins": 0,
+				"collectionDayBattlesPlayed": 3,
+				"numberOfBattles": 2
+			},
+			{
+				"tag": "#YCPVQVGG",
+				"name": "Gogjog",
+				"cardsEarned": 1869,
+				"battlesPlayed": 1,
+				"wins": 1,
+				"collectionDayBattlesPlayed": 3,
+				"numberOfBattles": 1
+			},
+			{
+				"tag": "#9VCJCLRY",
+				"name": "OgieOgilthorpe",
+				"cardsEarned": 1869,
+				"battlesPlayed": 1,
+				"wins": 0,
+				"collectionDayBattlesPlayed": 3,
+				"numberOfBattles": 1
+			},
+			{
+				"tag": "#YV20V2Y8",
+				"name": "Havock",
+				"cardsEarned": 1760,
+				"battlesPlayed": 1,
+				"wins": 1,
+				"collectionDayBattlesPlayed": 3,
+				"numberOfBattles": 1
+			},
+			{
+				"tag": "#2Q9U28P8",
+				"name": "supermans son",
+				"cardsEarned": 1402,
+				"battlesPlayed": 1,
+				"wins": 0,
+				"collectionDayBattlesPlayed": 2,
+				"numberOfBattles": 1
+			},
+			{
+				"tag": "#P8QYGQUPG",
+				"name": "tiffmcnino1213",
+				"cardsEarned": 1236,
+				"battlesPlayed": 0,
+				"wins": 0,
+				"collectionDayBattlesPlayed": 3,
+				"numberOfBattles": 1
+			},
+			{
+				"tag": "#9ULGYU2L",
+				"name": "nparky",
+				"cardsEarned": 934,
+				"battlesPlayed": 1,
+				"wins": 0,
+				"collectionDayBattlesPlayed": 2,
+				"numberOfBattles": 1
+			}
+		],
+		"standings": [
+			{
+				"clan": {
+					"tag": "#8C0GGVPQ",
+					"name": "Matrix",
+					"badgeId": 16000078,
+					"clanScore": 3206,
+					"participants": 17,
+					"battlesPlayed": 18,
+					"wins": 8,
+					"crowns": 15
+				},
+				"trophyChange": 108
+			},
+			{
+				"clan": {
+					"tag": "#PVPRLQ8U",
+					"name": "\u26a150 Legenden\u26a1",
+					"badgeId": 16000010,
+					"clanScore": 3184,
+					"participants": 18,
+					"battlesPlayed": 16,
+					"wins": 7,
+					"crowns": 13
+				},
+				"trophyChange": 57
+			},
+			{
+				"clan": {
+					"tag": "#GVGPLU0",
+					"name": "TrappersPark",
+					"badgeId": 16000170,
+					"clanScore": 9017,
+					"participants": 17,
+					"battlesPlayed": 18,
+					"wins": 7,
+					"crowns": 11
+				},
+				"trophyChange": -18
+			},
+			{
+				"clan": {
+					"tag": "#88QY8QQV",
+					"name": "Anarchy",
+					"badgeId": 16000028,
+					"clanScore": 3235,
+					"participants": 17,
+					"battlesPlayed": 15,
+					"wins": 4,
+					"crowns": 13
+				},
+				"trophyChange": -46
+			},
+			{
+				"clan": {
+					"tag": "#2Q8LQ9LR",
+					"name": "OMAN Empire\u2122",
+					"badgeId": 16000002,
+					"clanScore": 11561,
+					"participants": 16,
+					"battlesPlayed": 17,
+					"wins": 4,
+					"crowns": 4
+				},
+				"trophyChange": -96
+			}
+		]
+	},
+	{
+		"seasonId": 38,
+		"createdDate": "20190919T060121.000Z",
+		"participants": [
+			{
+				"tag": "#8UQ022J08",
+				"name": "Astaroth",
+				"cardsEarned": 2805,
+				"battlesPlayed": 1,
+				"wins": 1,
+				"collectionDayBattlesPlayed": 3,
+				"numberOfBattles": 1
+			},
+			{
+				"tag": "#P9Q20YLY",
+				"name": "Lexeus",
+				"cardsEarned": 2337,
+				"battlesPlayed": 1,
+				"wins": 1,
+				"collectionDayBattlesPlayed": 3,
+				"numberOfBattles": 1
+			},
+			{
+				"tag": "#20JG98U0",
+				"name": "Occas",
+				"cardsEarned": 2337,
+				"battlesPlayed": 1,
+				"wins": 1,
+				"collectionDayBattlesPlayed": 3,
+				"numberOfBattles": 1
+			},
+			{
+				"tag": "#PRQLVQJV",
+				"name": "DemonicSaviour",
+				"cardsEarned": 2337,
+				"battlesPlayed": 1,
+				"wins": 0,
+				"collectionDayBattlesPlayed": 3,
+				"numberOfBattles": 1
+			},
+			{
+				"tag": "#P8Q2JYYR",
+				"name": "TheArrowIsHere",
+				"cardsEarned": 2337,
+				"battlesPlayed": 1,
+				"wins": 0,
+				"collectionDayBattlesPlayed": 3,
+				"numberOfBattles": 1
+			},
+			{
+				"tag": "#9VCJCLRY",
+				"name": "OgieOgilthorpe",
+				"cardsEarned": 2337,
+				"battlesPlayed": 1,
+				"wins": 0,
+				"collectionDayBattlesPlayed": 3,
+				"numberOfBattles": 1
+			},
+			{
+				"tag": "#YV20V2Y8",
+				"name": "Havock",
+				"cardsEarned": 2200,
+				"battlesPlayed": 1,
+				"wins": 0,
+				"collectionDayBattlesPlayed": 3,
+				"numberOfBattles": 1
+			},
+			{
+				"tag": "#QLURYPQY",
+				"name": "any 1 4 fun",
+				"cardsEarned": 1869,
+				"battlesPlayed": 1,
+				"wins": 1,
+				"collectionDayBattlesPlayed": 3,
+				"numberOfBattles": 1
+			},
+			{
+				"tag": "#88VUGGC2",
+				"name": "mctwitch5",
+				"cardsEarned": 1869,
+				"battlesPlayed": 1,
+				"wins": 1,
+				"collectionDayBattlesPlayed": 3,
+				"numberOfBattles": 1
+			},
+			{
+				"tag": "#2QC8VG2VV",
+				"name": "spicycamo",
+				"cardsEarned": 1869,
+				"battlesPlayed": 1,
+				"wins": 1,
+				"collectionDayBattlesPlayed": 3,
+				"numberOfBattles": 1
+			},
+			{
+				"tag": "#YCPVQVGG",
+				"name": "Gogjog",
+				"cardsEarned": 1869,
+				"battlesPlayed": 1,
+				"wins": 1,
+				"collectionDayBattlesPlayed": 3,
+				"numberOfBattles": 1
+			},
+			{
+				"tag": "#P8QYGQUPG",
+				"name": "tiffmcnino1213",
+				"cardsEarned": 1649,
+				"battlesPlayed": 1,
+				"wins": 0,
+				"collectionDayBattlesPlayed": 3,
+				"numberOfBattles": 1
+			},
+			{
+				"tag": "#980UCPLRQ",
+				"name": "jokerkin",
+				"cardsEarned": 1401,
+				"battlesPlayed": 1,
+				"wins": 0,
+				"collectionDayBattlesPlayed": 3,
+				"numberOfBattles": 1
+			},
+			{
+				"tag": "#UVLG0JG9",
+				"name": "findingnino1238",
+				"cardsEarned": 1401,
+				"battlesPlayed": 1,
+				"wins": 0,
+				"collectionDayBattlesPlayed": 3,
+				"numberOfBattles": 1
+			},
+			{
+				"tag": "#20QPUQQCC",
+				"name": "Archangel",
+				"cardsEarned": 1347,
+				"battlesPlayed": 1,
+				"wins": 1,
+				"collectionDayBattlesPlayed": 3,
+				"numberOfBattles": 1
+			},
+			{
+				"tag": "#9ULGYU2L",
+				"name": "nparky",
+				"cardsEarned": 467,
+				"battlesPlayed": 1,
+				"wins": 0,
+				"collectionDayBattlesPlayed": 1,
+				"numberOfBattles": 1
+			},
+			{
+				"tag": "#2Q9U28P8",
+				"name": "supermans son",
+				"cardsEarned": 467,
+				"battlesPlayed": 1,
+				"wins": 0,
+				"collectionDayBattlesPlayed": 1,
+				"numberOfBattles": 1
+			}
+		],
+		"standings": [
+			{
+				"clan": {
+					"tag": "#8YPJGV",
+					"name": "ONFYRE",
+					"badgeId": 16000002,
+					"clanScore": 8816,
+					"participants": 16,
+					"battlesPlayed": 17,
+					"wins": 11,
+					"crowns": 21
+				},
+				"trophyChange": 111
+			},
+			{
+				"clan": {
+					"tag": "#88QY8QQV",
+					"name": "Anarchy",
+					"badgeId": 16000028,
+					"clanScore": 3281,
+					"participants": 17,
+					"battlesPlayed": 17,
+					"wins": 8,
+					"crowns": 19
+				},
+				"trophyChange": 58
+			},
+			{
+				"clan": {
+					"tag": "#8VYYLUC",
+					"name": "\u548c\u5e73\u4e07\u5c81",
+					"badgeId": 16000034,
+					"clanScore": 5952,
+					"participants": 17,
+					"battlesPlayed": 15,
+					"wins": 8,
+					"crowns": 17
+				},
+				"trophyChange": -17
+			},
+			{
+				"clan": {
+					"tag": "#2PJ90GR",
+					"name": "Biergarten Eden",
+					"badgeId": 16000080,
+					"clanScore": 6120,
+					"participants": 16,
+					"battlesPlayed": 17,
+					"wins": 7,
+					"crowns": 12
+				},
+				"trophyChange": -43
+			},
+			{
+				"clan": {
+					"tag": "#RR008",
+					"name": "\u5929\u671d\u5144\u5f1f\u4f1a",
+					"badgeId": 16000039,
+					"clanScore": 3117,
+					"participants": 17,
+					"battlesPlayed": 15,
+					"wins": 5,
+					"crowns": 11
+				},
+				"trophyChange": -95
+			}
+		]
+	},
+	{
+		"seasonId": 37,
+		"createdDate": "20190917T044755.000Z",
+		"participants": [
+			{
+				"tag": "#QLURYPQY",
+				"name": "any 1 4 fun",
+				"cardsEarned": 2805,
+				"battlesPlayed": 1,
+				"wins": 1,
+				"collectionDayBattlesPlayed": 3,
+				"numberOfBattles": 1
+			},
+			{
+				"tag": "#980UCPLRQ",
+				"name": "jokerkin",
+				"cardsEarned": 2805,
+				"battlesPlayed": 2,
+				"wins": 0,
+				"collectionDayBattlesPlayed": 3,
+				"numberOfBattles": 2
+			},
+			{
+				"tag": "#P8Q2JYYR",
+				"name": "TheArrowIsHere",
+				"cardsEarned": 2805,
+				"battlesPlayed": 1,
+				"wins": 0,
+				"collectionDayBattlesPlayed": 3,
+				"numberOfBattles": 1
+			},
+			{
+				"tag": "#88VUGGC2",
+				"name": "mctwitch5",
+				"cardsEarned": 2337,
+				"battlesPlayed": 1,
+				"wins": 1,
+				"collectionDayBattlesPlayed": 3,
+				"numberOfBattles": 1
+			},
+			{
+				"tag": "#PRQLVQJV",
+				"name": "DemonicSaviour",
+				"cardsEarned": 2337,
+				"battlesPlayed": 1,
+				"wins": 1,
+				"collectionDayBattlesPlayed": 3,
+				"numberOfBattles": 1
+			},
+			{
+				"tag": "#9VCJCLRY",
+				"name": "OgieOgilthorpe",
+				"cardsEarned": 2200,
+				"battlesPlayed": 1,
+				"wins": 1,
+				"collectionDayBattlesPlayed": 3,
+				"numberOfBattles": 1
+			},
+			{
+				"tag": "#YV20V2Y8",
+				"name": "Havock",
+				"cardsEarned": 2200,
+				"battlesPlayed": 1,
+				"wins": 0,
+				"collectionDayBattlesPlayed": 3,
+				"numberOfBattles": 1
+			},
+			{
+				"tag": "#9ULGYU2L",
+				"name": "nparky",
+				"cardsEarned": 1869,
+				"battlesPlayed": 2,
+				"wins": 0,
+				"collectionDayBattlesPlayed": 3,
+				"numberOfBattles": 2
+			},
+			{
+				"tag": "#YCPVQVGG",
+				"name": "Gogjog",
+				"cardsEarned": 1869,
+				"battlesPlayed": 1,
+				"wins": 1,
+				"collectionDayBattlesPlayed": 3,
+				"numberOfBattles": 1
+			},
+			{
+				"tag": "#P9Q20YLY",
+				"name": "Lexeus",
+				"cardsEarned": 1869,
+				"battlesPlayed": 1,
+				"wins": 0,
+				"collectionDayBattlesPlayed": 3,
+				"numberOfBattles": 1
+			},
+			{
+				"tag": "#9Q8VU0CP",
+				"name": "->uhz<-",
+				"cardsEarned": 1869,
+				"battlesPlayed": 1,
+				"wins": 0,
+				"collectionDayBattlesPlayed": 3,
+				"numberOfBattles": 1
+			},
+			{
+				"tag": "#UVLG0JG9",
+				"name": "findingnino1238",
+				"cardsEarned": 1760,
+				"battlesPlayed": 1,
+				"wins": 0,
+				"collectionDayBattlesPlayed": 3,
+				"numberOfBattles": 1
+			},
+			{
+				"tag": "#P8QYGQUPG",
+				"name": "tiffmcnino1213",
+				"cardsEarned": 1649,
+				"battlesPlayed": 1,
+				"wins": 0,
+				"collectionDayBattlesPlayed": 3,
+				"numberOfBattles": 1
+			},
+			{
+				"tag": "#20JG98U0",
+				"name": "Occas",
+				"cardsEarned": 1401,
+				"battlesPlayed": 1,
+				"wins": 1,
+				"collectionDayBattlesPlayed": 3,
+				"numberOfBattles": 1
+			},
+			{
+				"tag": "#G8VGUJG",
+				"name": "Tristan",
+				"cardsEarned": 1401,
+				"battlesPlayed": 1,
+				"wins": 0,
+				"collectionDayBattlesPlayed": 3,
+				"numberOfBattles": 1
+			},
+			{
+				"tag": "#8Y2L2PV8",
+				"name": "superdudeness",
+				"cardsEarned": 1320,
+				"battlesPlayed": 2,
+				"wins": 1,
+				"collectionDayBattlesPlayed": 3,
+				"numberOfBattles": 2
+			},
+			{
+				"tag": "#20QPUQQCC",
+				"name": "Archangel",
+				"cardsEarned": 880,
+				"battlesPlayed": 1,
+				"wins": 0,
+				"collectionDayBattlesPlayed": 1,
+				"numberOfBattles": 1
+			}
+		],
+		"standings": [
+			{
+				"clan": {
+					"tag": "#2GCCVP9",
+					"name": "\u9ad8\u96c4COC\u597d\u670b\u53cb",
+					"badgeId": 16000009,
+					"clanScore": 3478,
+					"participants": 18,
+					"battlesPlayed": 19,
+					"wins": 10,
+					"crowns": 15
+				},
+				"trophyChange": 110
+			},
+			{
+				"clan": {
+					"tag": "#89GPPJJY",
+					"name": "Dimetrodones",
+					"badgeId": 16000159,
+					"clanScore": 4692,
+					"participants": 17,
+					"battlesPlayed": 20,
+					"wins": 9,
+					"crowns": 18
+				},
+				"trophyChange": 59
+			},
+			{
+				"clan": {
+					"tag": "#9JR2C2QV",
+					"name": "Def'sGreatBling",
+					"badgeId": 16000106,
+					"clanScore": 4285,
+					"participants": 20,
+					"battlesPlayed": 17,
+					"wins": 8,
+					"crowns": 13
+				},
+				"trophyChange": -17
+			},
+			{
+				"clan": {
+					"tag": "#UQ8Q89U",
+					"name": "\u6a31\u82b1\u5e84\u7684\u5ba0\u7269\u5973\u5b69z",
+					"badgeId": 16000128,
+					"clanScore": 4437,
+					"participants": 20,
+					"battlesPlayed": 20,
+					"wins": 7,
+					"crowns": 21
+				},
+				"trophyChange": -43
+			},
+			{
+				"clan": {
+					"tag": "#88QY8QQV",
+					"name": "Anarchy",
+					"badgeId": 16000028,
+					"clanScore": 3223,
+					"participants": 17,
+					"battlesPlayed": 20,
+					"wins": 7,
+					"crowns": 11
+				},
+				"trophyChange": -93
+			}
+		]
+	},
+	{
+		"seasonId": 37,
+		"createdDate": "20190915T041806.000Z",
+		"participants": [
+			{
+				"tag": "#9VCJCLRY",
+				"name": "OgieOgilthorpe",
+				"cardsEarned": 2337,
+				"battlesPlayed": 1,
+				"wins": 0,
+				"collectionDayBattlesPlayed": 3,
+				"numberOfBattles": 1
+			},
+			{
+				"tag": "#88VUGGC2",
+				"name": "mctwitch5",
+				"cardsEarned": 2337,
+				"battlesPlayed": 1,
+				"wins": 0,
+				"collectionDayBattlesPlayed": 3,
+				"numberOfBattles": 1
+			},
+			{
+				"tag": "#YV20V2Y8",
+				"name": "Havock",
+				"cardsEarned": 2200,
+				"battlesPlayed": 1,
+				"wins": 0,
+				"collectionDayBattlesPlayed": 3,
+				"numberOfBattles": 1
+			},
+			{
+				"tag": "#YCPVQVGG",
+				"name": "Gogjog",
+				"cardsEarned": 1870,
+				"battlesPlayed": 1,
+				"wins": 0,
+				"collectionDayBattlesPlayed": 2,
+				"numberOfBattles": 1
+			},
+			{
+				"tag": "#P8Q2JYYR",
+				"name": "TheArrowIsHere",
+				"cardsEarned": 1869,
+				"battlesPlayed": 1,
+				"wins": 0,
+				"collectionDayBattlesPlayed": 3,
+				"numberOfBattles": 1
+			},
+			{
+				"tag": "#PRQLVQJV",
+				"name": "DemonicSaviour",
+				"cardsEarned": 1869,
+				"battlesPlayed": 1,
+				"wins": 1,
+				"collectionDayBattlesPlayed": 3,
+				"numberOfBattles": 1
+			},
+			{
+				"tag": "#UVLG0JG9",
+				"name": "findingnino1238",
+				"cardsEarned": 1869,
+				"battlesPlayed": 1,
+				"wins": 1,
+				"collectionDayBattlesPlayed": 3,
+				"numberOfBattles": 1
+			},
+			{
+				"tag": "#980UCPLRQ",
+				"name": "jokerkin",
+				"cardsEarned": 1869,
+				"battlesPlayed": 1,
+				"wins": 0,
+				"collectionDayBattlesPlayed": 3,
+				"numberOfBattles": 1
+			},
+			{
+				"tag": "#20QPUQQCC",
+				"name": "Archangel",
+				"cardsEarned": 1760,
+				"battlesPlayed": 1,
+				"wins": 0,
+				"collectionDayBattlesPlayed": 3,
+				"numberOfBattles": 1
+			},
+			{
+				"tag": "#9ULGYU2L",
+				"name": "nparky",
+				"cardsEarned": 1402,
+				"battlesPlayed": 0,
+				"wins": 0,
+				"collectionDayBattlesPlayed": 2,
+				"numberOfBattles": 1
+			},
+			{
+				"tag": "#2QC8VG2VV",
+				"name": "spicycamo",
+				"cardsEarned": 1402,
+				"battlesPlayed": 1,
+				"wins": 1,
+				"collectionDayBattlesPlayed": 2,
+				"numberOfBattles": 1
+			},
+			{
+				"tag": "#20JG98U0",
+				"name": "Occas",
+				"cardsEarned": 1401,
+				"battlesPlayed": 1,
+				"wins": 1,
+				"collectionDayBattlesPlayed": 3,
+				"numberOfBattles": 1
+			},
+			{
+				"tag": "#9Y2C0LYRY",
+				"name": "yokei17",
+				"cardsEarned": 1320,
+				"battlesPlayed": 0,
+				"wins": 0,
+				"collectionDayBattlesPlayed": 2,
+				"numberOfBattles": 2
+			},
+			{
+				"tag": "#8Y2L2PV8",
+				"name": "superdudeness",
+				"cardsEarned": 880,
+				"battlesPlayed": 2,
+				"wins": 0,
+				"collectionDayBattlesPlayed": 2,
+				"numberOfBattles": 2
+			},
+			{
+				"tag": "#2Q9U28P8",
+				"name": "supermans son",
+				"cardsEarned": 467,
+				"battlesPlayed": 1,
+				"wins": 0,
+				"collectionDayBattlesPlayed": 1,
+				"numberOfBattles": 1
+			},
+			{
+				"tag": "#2P9PYYY0J",
+				"name": "McAdams",
+				"cardsEarned": 440,
+				"battlesPlayed": 0,
+				"wins": 0,
+				"collectionDayBattlesPlayed": 1,
+				"numberOfBattles": 1
+			}
+		],
+		"standings": [
+			{
+				"clan": {
+					"tag": "#28JGVC02",
+					"name": "RED 1",
+					"badgeId": 16000044,
+					"clanScore": 4300,
+					"participants": 16,
+					"battlesPlayed": 18,
+					"wins": 14,
+					"crowns": 26
+				},
+				"trophyChange": 114
+			},
+			{
+				"clan": {
+					"tag": "#2PVJYGG",
+					"name": "\u9ed1\u77f3\u5c71",
+					"badgeId": 16000002,
+					"clanScore": 14552,
+					"participants": 17,
+					"battlesPlayed": 16,
+					"wins": 12,
+					"crowns": 26
+				},
+				"trophyChange": 62
+			},
+			{
+				"clan": {
+					"tag": "#8JGLRGVG",
+					"name": "krispy cush",
+					"badgeId": 16000077,
+					"clanScore": 3726,
+					"participants": 18,
+					"battlesPlayed": 17,
+					"wins": 5,
+					"crowns": 14
+				},
+				"trophyChange": -20
+			},
+			{
+				"clan": {
+					"tag": "#9Q8QG9CC",
+					"name": "\u5750\u62e5\u5168\u4f20\u5947",
+					"badgeId": 16000158,
+					"clanScore": 3030,
+					"participants": 16,
+					"battlesPlayed": 14,
+					"wins": 4,
+					"crowns": 9
+				},
+				"trophyChange": -46
+			},
+			{
+				"clan": {
+					"tag": "#88QY8QQV",
+					"name": "Anarchy",
+					"badgeId": 16000028,
+					"clanScore": 3316,
+					"participants": 16,
+					"battlesPlayed": 14,
+					"wins": 4,
+					"crowns": 5
+				},
+				"trophyChange": -96
+			}
+		]
+	},
+	{
+		"seasonId": 37,
+		"createdDate": "20190913T040948.000Z",
+		"participants": [
+			{
+				"tag": "#P8Q2JYYR",
+				"name": "TheArrowIsHere",
+				"cardsEarned": 2805,
+				"battlesPlayed": 0,
+				"wins": 0,
+				"collectionDayBattlesPlayed": 3,
+				"numberOfBattles": 1
+			},
+			{
+				"tag": "#8PPGJ2QYQ",
+				"name": "Tyrone Biggums",
+				"cardsEarned": 2805,
+				"battlesPlayed": 0,
+				"wins": 0,
+				"collectionDayBattlesPlayed": 3,
+				"numberOfBattles": 1
+			},
+			{
+				"tag": "#22LGQC0U0",
+				"name": "\u5e05\u6c14\u7684\u738b\u5b50\u8c6a",
+				"cardsEarned": 2805,
+				"battlesPlayed": 0,
+				"wins": 0,
+				"collectionDayBattlesPlayed": 3,
+				"numberOfBattles": 1
+			},
+			{
+				"tag": "#8UQ022J08",
+				"name": "Astaroth",
+				"cardsEarned": 2805,
+				"battlesPlayed": 0,
+				"wins": 0,
+				"collectionDayBattlesPlayed": 3,
+				"numberOfBattles": 1
+			},
+			{
+				"tag": "#YCPVQVGG",
+				"name": "Gogjog",
+				"cardsEarned": 2337,
+				"battlesPlayed": 1,
+				"wins": 0,
+				"collectionDayBattlesPlayed": 3,
+				"numberOfBattles": 1
+			},
+			{
+				"tag": "#P8QYGQUPG",
+				"name": "tiffmcnino1213",
+				"cardsEarned": 2310,
+				"battlesPlayed": 1,
+				"wins": 0,
+				"collectionDayBattlesPlayed": 3,
+				"numberOfBattles": 1
+			},
+			{
+				"tag": "#9VCJCLRY",
+				"name": "OgieOgilthorpe",
+				"cardsEarned": 2200,
+				"battlesPlayed": 1,
+				"wins": 1,
+				"collectionDayBattlesPlayed": 3,
+				"numberOfBattles": 1
+			},
+			{
+				"tag": "#YV20V2Y8",
+				"name": "Havock",
+				"cardsEarned": 2200,
+				"battlesPlayed": 1,
+				"wins": 1,
+				"collectionDayBattlesPlayed": 3,
+				"numberOfBattles": 1
+			},
+			{
+				"tag": "#UVLG0JG9",
+				"name": "findingnino1238",
+				"cardsEarned": 1869,
+				"battlesPlayed": 1,
+				"wins": 1,
+				"collectionDayBattlesPlayed": 3,
+				"numberOfBattles": 1
+			},
+			{
+				"tag": "#20JG98U0",
+				"name": "Occas",
+				"cardsEarned": 1869,
+				"battlesPlayed": 1,
+				"wins": 1,
+				"collectionDayBattlesPlayed": 3,
+				"numberOfBattles": 1
+			},
+			{
+				"tag": "#980UCPLRQ",
+				"name": "jokerkin",
+				"cardsEarned": 1869,
+				"battlesPlayed": 1,
+				"wins": 0,
+				"collectionDayBattlesPlayed": 3,
+				"numberOfBattles": 1
+			},
+			{
+				"tag": "#20QPUQQCC",
+				"name": "Archangel",
+				"cardsEarned": 1760,
+				"battlesPlayed": 1,
+				"wins": 0,
+				"collectionDayBattlesPlayed": 3,
+				"numberOfBattles": 1
+			},
+			{
+				"tag": "#G8VGUJG",
+				"name": "Tristan",
+				"cardsEarned": 1760,
+				"battlesPlayed": 1,
+				"wins": 0,
+				"collectionDayBattlesPlayed": 3,
+				"numberOfBattles": 1
+			},
+			{
+				"tag": "#QLURYPQY",
+				"name": "any 1 4 fun",
+				"cardsEarned": 935,
+				"battlesPlayed": 1,
+				"wins": 1,
+				"collectionDayBattlesPlayed": 1,
+				"numberOfBattles": 1
+			},
+			{
+				"tag": "#88VUGGC2",
+				"name": "mctwitch5",
+				"cardsEarned": 934,
+				"battlesPlayed": 1,
+				"wins": 1,
+				"collectionDayBattlesPlayed": 2,
+				"numberOfBattles": 1
+			}
+		],
+		"standings": [
+			{
+				"clan": {
+					"tag": "#R9GRVP0",
+					"name": "SG Rebellion",
+					"badgeId": 16000164,
+					"clanScore": 9596,
+					"participants": 15,
+					"battlesPlayed": 14,
+					"wins": 7,
+					"crowns": 13
+				},
+				"trophyChange": 107
+			},
+			{
+				"clan": {
+					"tag": "#88QY8QQV",
+					"name": "Anarchy",
+					"badgeId": 16000028,
+					"clanScore": 3412,
+					"participants": 15,
+					"battlesPlayed": 11,
+					"wins": 6,
+					"crowns": 9
+				},
+				"trophyChange": 56
+			},
+			{
+				"clan": {
+					"tag": "#Q2YYUQP",
+					"name": "\u8721\u7b14\u738b\u56fd",
+					"badgeId": 16000113,
+					"clanScore": 5080,
+					"participants": 14,
+					"battlesPlayed": 15,
+					"wins": 5,
+					"crowns": 12
+				},
+				"trophyChange": -20
+			},
+			{
+				"clan": {
+					"tag": "#CV0VUL",
+					"name": "\u8ba9\u9752\u6625\u7ee7\u7eed",
+					"badgeId": 16000128,
+					"clanScore": 3419,
+					"participants": 14,
+					"battlesPlayed": 15,
+					"wins": 4,
+					"crowns": 8
+				},
+				"trophyChange": -46
+			},
+			{
+				"clan": {
+					"tag": "#8C2R98Y",
+					"name": "Patrulla \u00c1guila",
+					"badgeId": 16000172,
+					"clanScore": 2966,
+					"participants": 15,
+					"battlesPlayed": 15,
+					"wins": 4,
+					"crowns": 7
+				},
+				"trophyChange": -96
+			}
+		]
+	}
+]
+}
