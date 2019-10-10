@@ -48,6 +48,9 @@ class App extends React.Component {
           <div className="w3-col l7 m3 s4"> <TopFiveStandingsCard clanTag={this.props.match.params.clanTag}/> </div>
           <div className="w3-col l2 m3 s4"> <TopFiveStandingsCard clanTag={this.props.match.params.clanTag}/> </div>
         </div>
+        <p>
+          {this.state.warlog}
+        </p>
       </React.Fragment>
     );
   }
