@@ -33,7 +33,7 @@ class App extends React.Component {
       .then(results => {
         this.setState({warlog:results});
       });
-    //console.log(this.state.warlog);
+    //console.log(this.state);
   }
 
   render() {
@@ -48,9 +48,6 @@ class App extends React.Component {
           <div className="w3-col l7 m3 s4"> <TopFiveStandingsCard clanTag={this.props.match.params.clanTag}/> </div>
           <div className="w3-col l2 m3 s4"> <TopFiveStandingsCard clanTag={this.props.match.params.clanTag}/> </div>
         </div>
-        <p>
-          {this.state.warlog}
-        </p>
       </React.Fragment>
     );
   }
