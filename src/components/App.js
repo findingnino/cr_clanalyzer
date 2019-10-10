@@ -10,6 +10,14 @@ class App extends React.Component {
     history: PropTypes.object.isRequired,
   }
 
+  get_clan_warlog = () => {
+    const url3 = "https://us-central1-testing-11931238.cloudfunctions.net/clanalyzertesting?key=eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzUxMiIsImtpZCI6IjI4YTMxOGY3LTAwMDAtYTFlYi03ZmExLTJjNzQzM2M2Y2NhNSJ9.eyJpc3MiOiJzdXBlcmNlbGwiLCJhdWQiOiJzdXBlcmNlbGw6Z2FtZWFwaSIsImp0aSI6ImFkMmM0ZWJmLTliNzEtNDE2Zi1hYzI4LTYwNjljYTI3NDFhZCIsImlhdCI6MTU3MDY3MDUxNSwic3ViIjoiZGV2ZWxvcGVyL2Y3OTQ0YTA1LTg5YzQtNDdhMS0xMzdjLWM3NGRjMDA2MTU2YSIsInNjb3BlcyI6WyJyb3lhbGUiXSwibGltaXRzIjpbeyJ0aWVyIjoiZGV2ZWxvcGVyL3NpbHZlciIsInR5cGUiOiJ0aHJvdHRsaW5nIn0seyJjaWRycyI6WyIzNS4yMDMuMjUyLjEyNCJdLCJ0eXBlIjoiY2xpZW50In1dfQ.qkD2hV0KG_q6DwiReBcf98LU7cEXRzn52ggX0LAVNiMWv0_Qie9qJJgSP0_5fsbodTqnfFFBSeSDqn17EoRJ4Q"
+    fetch(url3, {method: 'Get',})
+    .then(result => result.json())
+    .then(result => console.log(result.items[0]))
+    .catch(err => console.log(err))
+  }
+
   render() {
     return (
       <React.Fragment>
